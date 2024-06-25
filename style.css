@@ -1,0 +1,43 @@
+html {
+height: 100%;
+width: 100%;
+}
+.titulo {
+display: flex;
+justify-content: center;
+align-items: center;
+border: 3px solid white;
+height: 120 px;
+background-color: #477acd;
+}
+body {
+background-color: #0f4499;
+}
+h1 {
+color: white;
+font-family: 'Roboto', sans-serif;
+font-size: 50px;
+}
+.subtitulo{
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  height: 60 px;
+  margin: 10 px;
+}
+.subtitulo p{
+  color: white;
+  font-family: 'Roboto', Old English Text MT;
+  font-size: 20px;
+}
+.contenido{
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  height: 60 px;
+  margin: 10 px;
+}
+.contenido img{
+  height: 50px;
+}
+.contenido p
